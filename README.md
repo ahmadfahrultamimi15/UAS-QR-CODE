@@ -1,2 +1,0 @@
-# UAS-QR-CODE
-UAS QR CODE
